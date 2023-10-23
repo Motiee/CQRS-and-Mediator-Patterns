@@ -1,0 +1,12 @@
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\obj\Debug\net7.0\DemoLibrary.csproj.AssemblyReference.cache
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\obj\Debug\net7.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\obj\Debug\net7.0\DemoLibrary.AssemblyInfoInputs.cache
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\obj\Debug\net7.0\DemoLibrary.AssemblyInfo.cs
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\obj\Debug\net7.0\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\bin\Debug\net7.0\DemoLibrary.deps.json
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\bin\Debug\net7.0\DemoLibrary.dll
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\bin\Debug\net7.0\DemoLibrary.pdb
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\obj\Debug\net7.0\DemoLibrary.dll
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\obj\Debug\net7.0\refint\DemoLibrary.dll
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\obj\Debug\net7.0\DemoLibrary.pdb
+D:\My Projects\CQRS and Mediator Patterns\DemoLibrary\obj\Debug\net7.0\ref\DemoLibrary.dll

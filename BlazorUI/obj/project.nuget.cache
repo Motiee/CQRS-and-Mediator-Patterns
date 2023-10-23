@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "1MylrNni4wBQbwxAPum0YHmMMI+4js2wZqZGBrpX6d/d3iVr9qFQtAaN/pjowpls1Cu/SQByji7iG39T3IBm2g==",
+  "success": true,
+  "projectFilePath": "D:\\My Projects\\CQRS and Mediator Patterns\\BlazorUI\\BlazorUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hesam\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Hesam\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Hesam\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Hesam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://localhost:8080/repository/nuget-group/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
